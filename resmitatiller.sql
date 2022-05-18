@@ -1,0 +1,9 @@
+INSERT INTO `resmitatiller` (`tatiladi`, `tarihi`, `gunu`, `gunsayisi`, `bitistarihi`, `bitisgunu`, `satirid`) VALUES ('1 Ocak Yılbaşı', '01.01.2022', 'Cumartesi', '1', '01.01.2022', 'Cumartesi', 1);
+INSERT INTO `resmitatiller` (`tatiladi`, `tarihi`, `gunu`, `gunsayisi`, `bitistarihi`, `bitisgunu`, `satirid`) VALUES ('23 Nisan Ulusal Egemenlik ve Çocuk Bayramı', '23.04.2022', 'Cumartesi', '1', '23.04.2022', 'Cumartesi', 2);
+INSERT INTO `resmitatiller` (`tatiladi`, `tarihi`, `gunu`, `gunsayisi`, `bitistarihi`, `bitisgunu`, `satirid`) VALUES ('01 Mayıs Emek ve Dayanışma Günü', '01.05.2022', 'Pazar', '1', '01.05.2021', 'Pazar', 3);
+INSERT INTO `resmitatiller` (`tatiladi`, `tarihi`, `gunu`, `gunsayisi`, `bitistarihi`, `bitisgunu`, `satirid`) VALUES ('Ramazan Bayramı', '02.05.2022', 'Pazartesi', '3', '04.05.2022', 'Çarşamba', 4);
+INSERT INTO `resmitatiller` (`tatiladi`, `tarihi`, `gunu`, `gunsayisi`, `bitistarihi`, `bitisgunu`, `satirid`) VALUES ('19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı', '19.05.2022', 'Perşembe', '1', '19.05.2021', 'Çarşamba', 5);
+INSERT INTO `resmitatiller` (`tatiladi`, `tarihi`, `gunu`, `gunsayisi`, `bitistarihi`, `bitisgunu`, `satirid`) VALUES ('15 Temmuz Demokrasi ve Milli Birlik Günü', '15.07.2022', 'Cuma', '1', '15.07.2021', 'Cuma', 6);
+INSERT INTO `resmitatiller` (`tatiladi`, `tarihi`, `gunu`, `gunsayisi`, `bitistarihi`, `bitisgunu`, `satirid`) VALUES ('Kurban Bayramı', '09.07.2022', 'Cumartesi', '4', '12.07.2022', 'Salı', 7);
+INSERT INTO `resmitatiller` (`tatiladi`, `tarihi`, `gunu`, `gunsayisi`, `bitistarihi`, `bitisgunu`, `satirid`) VALUES ('30 Ağustos Zafer Bayramı', '30.08.2022', 'Salı', '1', '30.08.2021', 'Pazartesi', 8);
+INSERT INTO `resmitatiller` (`tatiladi`, `tarihi`, `gunu`, `gunsayisi`, `bitistarihi`, `bitisgunu`, `satirid`) VALUES ('29 Ekim Cumhuriyet Bayramı', '29.10.2022', 'Cumartesi', '1', '29.10.2021', 'Cuma', 9);
